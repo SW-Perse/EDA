@@ -3,7 +3,8 @@ The purpose of this notebook is explore the dataset of Steam, a videogame platfo
 This notebook is my EDA project #2 for Jedha's Machine Learning Engineer certificate
 
 ## Requirements 
-This notebook is meant to be run on [Databricks](https://community.cloud.databricks.com)
+This notebook is meant to be run on [Databricks](https://community.cloud.databricks.com).
+
 This notebook is visible [online]()
 
 ## Table of contents
