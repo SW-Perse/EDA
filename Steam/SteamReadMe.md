@@ -5,7 +5,7 @@ This notebook is my EDA project #2 for Jedha's Machine Learning Engineer certifi
 ## Requirements 
 This notebook is meant to be run on [Databricks](https://community.cloud.databricks.com).
 
-This notebook is visible [online]()
+This notebook is visible [online](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5315000138423571/4050037113536573/7642277501885301/latest.html).
 
 ## Table of contents
 ### Introduction
@@ -27,4 +27,4 @@ This notebook is visible [online]()
 ### Conclusion
 
 ## Visualization dashboard
-Dashoboard presenting the visualizations of this notebook can be found [here]()
+Dashoboard presenting the visualizations of this notebook can be found [here](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5315000138423571/4050037113536573/7642277501885301/latest.html)
