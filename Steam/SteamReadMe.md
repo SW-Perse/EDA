@@ -27,4 +27,4 @@ This notebook is visible [online](https://databricks-prod-cloudfront.cloud.datab
 ### Conclusion
 
 ## Visualization dashboard
-Dashoboard presenting the visualizations of this notebook can be found [here](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5315000138423571/4050037113536573/7642277501885301/latest.html)
+Dashoboard presenting the visualizations of this notebook can be found [here](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5315000138423571/597488777188241/7642277501885301/latest.html)
