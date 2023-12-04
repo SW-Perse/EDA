@@ -1,6 +1,7 @@
 # Exploratory Data Analysis on the dataset of a speed dating experiment
 The purpose of this notebook is explore the dataset of a Tinder speed dating experiment. Descriptive statistics and visualizations were used in order to understand the dataset, analyze the profiles of the participants, and determine which factors are relevant to getting a match.
-This notebook is my EDA project #1 for Jedha's Machine Learning Engineer certificate
+
+This notebook is my EDA project #1 for Jedha's Machine Learning Engineer certificate.
 
 ## Requirements 
 pip install -r requirements.txt
