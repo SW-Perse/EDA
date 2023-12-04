@@ -4,7 +4,7 @@ The purpose of this notebook is explore the dataset of a Tinder speed dating exp
 This notebook is my EDA project #1 for Jedha's Machine Learning Engineer certificate.
 
 ## Requirements 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ## Table of contents
 ### Introduction
