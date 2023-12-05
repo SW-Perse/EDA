@@ -10,10 +10,20 @@ This notebook is my EDA project #1 for Jedha's Machine Learning Engineer certifi
 ### Introduction
 ### 1. Understanding the dataset
 ### 2. Participants' profiles analysis
-####  2.1. Preparing a subset
-####  2.2. K-Means
-####  2.3. DBSCAN
-### 3. Predictions
-####  3.1. Hot spots per day of the month
-####  3.2. Generalization
+####  2.1. Gender and age
+####  2.2. Race and religion
+####  2.3. Study field
+####  2.4. Dating habits
+####  2.5. Goals and expectations
+####  2.6. Attributes importance before the date
+### 3. It's a match...?
+####  3.1. Matches and positive responses
+####  3.2. Age
+####  3.3. Race
+####  3.4. Goals and expectations
+####  3.5. Date order
+####  3.6. Attributes
+### 4. Participants perception and its evolution over time (and dates)
+####  4.1. Participants self-ratings VS how they are rated
+####  4.2. Preferred attributes change as the experiment advances
 ### Conclusion
